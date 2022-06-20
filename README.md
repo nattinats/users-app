@@ -1,6 +1,6 @@
-A simple user list application to showcase React components.
+*A simple user list application to showcase React components.
 
-
+-------------------------------------------------------------
 
 # Getting Started with Create React App
 
